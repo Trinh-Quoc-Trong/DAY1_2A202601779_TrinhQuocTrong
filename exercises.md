@@ -88,7 +88,7 @@ Cải thiện: Tích hợp kỹ thuật RAG (Retrieval-Augmented Generation). M�
 
 ## Danh Sách Kiểm Tra Nộp Bài
 
-- [ ] `python grade.py` — xem điểm tự động, mục tiêu ≥ 75/100
-- [ ] Cả 4 checkpoint pytest đều pass
-- [ ] Tất cả 9 câu trong file này đã được trả lời
-- [ ] Đã copy bài làm vào folder `solution/` và zip theo hướng dẫn README
+- [x] `python grade.py` — xem điểm tự động, mục tiêu ≥ 75/100
+- [x] Cả 4 checkpoint pytest đều pass
+- [x] Tất cả 9 câu trong file này đã được trả lời
+- [x] Đã copy bài làm vào folder `solution/` và zip theo hướng dẫn README
